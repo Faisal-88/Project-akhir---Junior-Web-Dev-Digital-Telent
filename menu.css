@@ -1,0 +1,35 @@
+.html {
+	scroll-behavior: smooth;
+}
+.body {
+	font-family: sans-serif;
+	font-size: 16px;
+}
+.card-img:hover {
+	box-shadow: 2px 2px 10px rgba(0,0,0,0.4);	
+}
+.navbar .navbar-nav .nav-link {
+	color: white;
+}
+
+.navbar .navbar-nav .nav-link:hover {
+	color: red;
+}
+.navbar .navbar-brand  {
+	font-size: block;
+    nav-left: auto;
+}
+.navbar #navbarText{
+    font-size: block;
+  }
+
+.mx-auto {
+	width: 1150px;
+}
+
+.card {
+	margin-top: 20px;
+}
+
+
+

@@ -1,0 +1,47 @@
+.html {
+	scroll-behavior: smooth;
+}
+.body {
+	font-family: sans-serif;
+	font-size: 2px;
+}
+
+.banner {
+  background: url("gambar/pempek.jpg")no-repeat center center;
+  background-size: cover;
+  padding-top: 20%;
+  padding-bottom: 20%;
+  color: #fff;
+}
+
+.navbar .navbar-nav .nav-link {
+	color: white;
+  box-shadow: inset;
+}
+
+.navbar .navbar-nav .nav-link:hover {
+	color: red;
+}
+.navbar .navbar-brand  {
+	font-size: block;
+  nav-left: auto;
+}
+.navbar #navbarText{
+  font-size: block;
+}
+
+
+.client img {
+  height: auto;
+  max-height: 50px;
+}
+
+
+.kontak {
+  background: url("https://wallpaperaccess.com/full/1867010.jpg") no-repeat
+    center center;
+  background-size: cover;
+  padding-bottom: 20%;
+  padding-top: 20%;
+  color: #fff;
+}
